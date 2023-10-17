@@ -1,0 +1,32 @@
+.header {
+    background-color: #2B707A;
+    position: sticky;
+    padding: 10px;
+  }
+  
+  .header-content {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    flex-grow: 1;
+  }
+  
+  .logo-text {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .nav-links {
+    margin-left: auto;
+  }
+  
+  .nav-link {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    cursor: pointer;
+  }
+  

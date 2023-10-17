@@ -1,0 +1,40 @@
+.book-details-form {
+    max-width: 700px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+  }
+  
+  .book-details-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .book-details-form .form-group label {
+    font-weight: bold;
+  }
+  
+  .book-details-form .form-control {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .book-details-form .form-check {
+    margin-top: 10px;
+  }
+  
+  .book-details-form .btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .book-details-form .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  
